@@ -1,10 +1,10 @@
-lfg/1
-=width 8
-=height 8
-=magnification 64
-=color #000000 .
-=color #c2c3c7 □
-=color #fff1e8 ■
+LFG/1
+8
+8
+64
+#000000 .
+#c2c3c7 □
+#fff1e8 ■
 ........
 ...□□...
 ..□□□□..
